@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+figures/out/
+work/
+data/excluded_frames.csv
+data/endoscapes_test_keyframes.csv
+predictions.zip
+preds/
+*_validation.csv
+*_settings.json
+per_operation.csv.gz
